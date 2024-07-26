@@ -14,6 +14,11 @@ A final-year Computer Science and Engineering (CSE) student at APSIT. Passionate
 <img alt="Savinay's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SaviPandey&show_icons=true&theme=transparent"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaviPandey&layout=compact&&langs_count=8"/>
 </div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=realshantanu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=realshantanu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=realshantanu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### Profile views counter 👁️‍🗨️
 [![Savinay Pandey profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/SaviPandey)
