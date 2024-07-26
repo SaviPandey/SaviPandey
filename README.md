@@ -18,7 +18,6 @@ A final-year Computer Science and Engineering (CSE) student at APSIT. Passionate
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SaviPandey&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SaviPandey&theme=dark&hide_border=false"/>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaviPandey&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
