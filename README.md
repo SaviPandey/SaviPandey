@@ -21,7 +21,6 @@ A final-year Computer Science and Engineering (CSE) student at APSIT. Passionate
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaviPandey&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
-
 ### Profile views counter 👁️‍🗨️
 [![Savinay Pandey profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/SaviPandey)
 
