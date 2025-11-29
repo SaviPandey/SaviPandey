@@ -14,12 +14,16 @@ A final-year Computer Science and Engineering (CSE) student at APSIT. Passionate
 <img alt="Savinay's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SaviPandey&show_icons=true&include_all=true&theme=transparent"/>
 </div>
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <div align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SaviPandey&theme=dark&hide_border=false"/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaviPandey&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SaviPandey&show_icons=true&include_all_commits=true&theme=transparent&cache_seconds=21600"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaviPandey&theme=dark&cache_seconds=21600"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaviPandey&layout=compact&theme=dark&cache_seconds=21600"/>
 </div>
+
 
 ### Profile views counter 👁️‍🗨️
 [![Savinay Pandey profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/SaviPandey)
